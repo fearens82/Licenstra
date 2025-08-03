@@ -1,10 +1,3 @@
-- name: Generate License
-  uses: [YOUR-USERNAME]/licenstra@v1
-  with:
-    license_title: "Software License"
-    license_description: "Commercial usage rights"
-    licensee_email: "customer@example.com"# This is a basic workflow to help you get started with Actions
-
 name: CI
 
 # Controls when the workflow will run
